@@ -115,3 +115,9 @@ analysis/cpp/urls.txt
 analysis/python/data
 analysis/python/cord
 analysis/**/*.gz
+
+# ipynb checkpoints
+analysis/python/.ipynb_checkpoints
+
+# pickles
+analysis/python/pickles
